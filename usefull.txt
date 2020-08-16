@@ -1,0 +1,4 @@
+"build": "webpack src/js/app.js dist/bundle.js"
+
+node_modules/.bin/webpack .src/index.js ./public/bundle.js
+
